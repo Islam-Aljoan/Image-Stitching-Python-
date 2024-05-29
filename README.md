@@ -1,2 +1,2 @@
-# Image-Stitching-Python-
+# Image-Stitching-Python
 Panorama
